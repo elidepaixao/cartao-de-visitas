@@ -39,4 +39,4 @@ Um cartão de visitas on line contendo os links para o meu GitHub e Linkedin.
 Você pode visualizar o projeto através [DESSE LINK](https://www.figma.com/file/acFQfiJtMPdmNiMONKKQS4/DevLinks-(Community)?node-id=0%3A1&t=xEQaW6rz11NFCvnK-0)
 
 
-- [Visite o projeto online] (https://elidepaixao.github.io/cartao-de-visitas)
+- [Visite o projeto online](https://elidepaixao.github.io/cartao-de-visitas)
